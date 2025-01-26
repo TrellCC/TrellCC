@@ -3,7 +3,7 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>Microsoft Azure</b>
-  - [Creating a Virtual Machine using Azure](https://github.com/joshmadakorcc/configure-ad)
+  - [Creating a Virtual Machine using Azure](https://github.com/TrellCC/azure-vm-walkthrough)
   
 
 
